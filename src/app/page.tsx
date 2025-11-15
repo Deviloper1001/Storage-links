@@ -62,7 +62,7 @@ export default function Home() {
         </main>
 
         {/* Footer */}
-        <footer className="mt-1 pt-8 border-t border-gray-200">
+        <footer className="mt-15 pt-20 border-t border-gray-200">
           <p className="text-sm text-gray-600 text-center">Have fun</p>
         </footer>
       </div>
