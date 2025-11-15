@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button"
 import { Download } from "lucide-react"
 
 const games = [
-  { tittle: "Grand Theft Auto 4",
+  { title: "Grand Theft Auto 4",
     downloadUrl:"https://1024terabox.com/s/113nEu5yfDNSO3V7bnW535w",
   },  
   { 
@@ -62,7 +62,7 @@ export default function Home() {
         </main>
 
         {/* Footer */}
-        <footer className="mt-15 pt-20 border-t border-gray-200">
+        <footer className="mt-15 pt-8 border-t border-gray-200">
           <p className="text-sm text-gray-600 text-center">Have fun</p>
         </footer>
       </div>
