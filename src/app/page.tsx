@@ -4,7 +4,10 @@ import { Button } from "@/components/ui/button"
 import { Download } from "lucide-react"
 
 const games = [
-  {
+  { tittle: "Grand Theft Auto 4",
+    downloadUrl:"https://1024terabox.com/s/113nEu5yfDNSO3V7bnW535w",
+  },  
+  { 
     title: "Grand Theft Auto: San Andreas",
     downloadUrl: "https://1024terabox.com/s/1rFMGbIqxxNWUYcFTnZoWOA",
   },
