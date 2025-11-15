@@ -63,7 +63,7 @@ export default function Home() {
 
         {/* Footer */}
         <footer className="mt-15 pt-8 border-t border-gray-200">
-          <p className="text-sm text-gray-600 text-center">Have fun</p>
+          <p className="text-sm text-gray-600 text-center">For more games contact me on telegram: @Deviloper_1001</p>
         </footer>
       </div>
     </div>
