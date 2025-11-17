@@ -22,6 +22,19 @@ const games = [
   {
     title: "Getting Over It",
     downloadUrl: "https://1024terabox.com/s/19ioNoy8tywEfrbiGKv1K5w",
+  },
+  {
+    title: "Nokia game",
+    downloadUrl:"https://drive.google.com/file/d/1UDwRpGQ2hRsE1IqzOdfIRT54wUkFo_Ly/view?usp=sharing",
+  },
+  
+  {title: "Harry potter",
+   downloadUrl:"https://drive.google.com/drive/folders/1Zla_6ilK2KdyyeDBvc_DZEemWvHPt37R?usp=sharing",
+  },
+  
+  {
+  title:"Boards Study Material",
+  downloadUrl: "https://drive.google.com/drive/folders/1m0OqitYOuBMH_8t12k5X-WGuFYfmafv2?usp=sharing",
   }
 ]
 
@@ -35,8 +48,8 @@ export default function Home() {
       <div className="max-w-2xl mx-auto px-6 py-16">
         {/* Header */}
         <header className="mb-16">
-          <h1 className="text-2xl font-light text-gray-900 mb-2">FunDen</h1>
-          <p className="text-sm text-gray-600">Free game downloads</p>
+          <h1 className="text-2xl font-light text-gray-900 mb-2">Storage Links</h1>
+          <p className="text-sm text-gray-600">Personal Download Links *Don't Use These*</p>
         </header>
 
         {/* Games List */}
