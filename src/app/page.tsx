@@ -30,6 +30,7 @@ const games = [
   
   {title: "Harry potter",
    downloadUrl:"https://drive.google.com/drive/folders/1Zla_6ilK2KdyyeDBvc_DZEemWvHPt37R?usp=sharing",
+   downloadUrl:"https://1024terabox.com/s/1mLoO30vE9xsBGOtv6klNlQ",
   },
   
   {
