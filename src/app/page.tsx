@@ -62,36 +62,31 @@ const items = [
     title: "BeamNG.drive",
     downloadUrl: "https://1024terabox.com/s/1JL5lDWTRIY85QBbkD6k7fg",
     category: "Games",
-    subcategory: ""
   },
   {
     title: "Getting Over It",
     downloadUrl: "https://1024terabox.com/s/19ioNoy8tywEfrbiGKv1K5w",
     category: "Games",
-    subcategory: ""
   },
   {
     title: "Nokia game",
     downloadUrl:"https://drive.google.com/file/d/1UDwRpGQ2hRsE1IqzOdfIRT54wUkFo_Ly/view?usp=sharing",
     category: "Games",
-    subcategory: ""
+ 
   },
   {title: "Harry potter-Book Series",
    downloadUrl:"https://drive.google.com/drive/folders/1Zla_6ilK2KdyyeDBvc_DZEemWvHPt37R?usp=sharing",
    category: "Books",
-   subcategory: ""
   },
   {
     title:"Harry Potter-Movie Series",
     downloadUrl:"https://1024terabox.com/s/1mLoO30vE9xsBGOtv6klNlQ",
     category: "Movies",
-    subcategory: "Fantasy"
   },
   {
   title:"Boards Study Material",
   downloadUrl:"https://drive.google.com/drive/folders/1m0OqitYOuBMH_8t12k5X-WGuFYfmafv2?usp=sharing",
   category: "Education",
-  subcategory: "Study Guides"
   }
 ]
 
