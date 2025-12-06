@@ -18,7 +18,7 @@ export default function Home() {
   const [passwordError, setPasswordError] = useState("")
 
   // Simple password protection
-  const correctPassword = "fun2024" // Change this to your desired password
+  const correctPassword = "arkadevelopments"
 
   useEffect(() => {
     setMounted(true)
