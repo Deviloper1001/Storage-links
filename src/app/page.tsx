@@ -3,7 +3,6 @@
 import { Button } from "@/components/ui/button"
 import { Download, Search, ChevronDown, ChevronRight, Moon, Sun } from "lucide-react"
 import { useState, useEffect } from "react"
-import { Analytics } from '@vercel/analytics/react'
 import { items, type StorageItem } from '../data/items'
 
 export default function Home() {
