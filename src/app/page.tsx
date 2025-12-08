@@ -18,7 +18,7 @@ export default function Home() {
   const [passwordError, setPasswordError] = useState("")
 
   // Simple password protection
-  const correctPassword = "arkadevs"
+  const correctPassword = "varnika26"
 
   useEffect(() => {
     setMounted(true)
