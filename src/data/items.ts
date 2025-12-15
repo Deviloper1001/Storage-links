@@ -106,6 +106,24 @@ export const items: StorageItem[] = [
   title:"English Presentation: The Necklace",
   downloadUrl:"https://1drv.ms/p/c/2cde56a8a6170d76/IQBWRCYkx8dKR6YBk6lbbIjAAQuv776vv9XIO8iKMFKJMnw?e=2xDCYh",
   category: "Education",
+  },
+  {
+    title:"Personal Photos",
+    downloadUrl:"https://1024terabox.com/s/1xSVntnvjyuwD9SYYHSLPug",//Password:2302
+    Category:"Personal",
+    subcategory:"Photos",
+  },
+  {
+    title:"NyxCipher",
+    downloadUrl:"https://1024terabox.com/s/1_z8ri77yTIklslABIK4jSg",//Password:2302
+    category:"Personal",
+    subcategory:"Program",
+  },
+  {
+    title:"NyxCipher",
+    downloadUrl:"https://1024terabox.com/s/1_z8ri77yTIklslABIK4jSg",//Password:2302
+    category:"Program",
+    subcategory:"Python",
   }
 ]
 
