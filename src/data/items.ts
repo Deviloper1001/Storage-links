@@ -98,7 +98,7 @@ export const items: StorageItem[] = [
   },
   {
     title:"Hunting Adeline",
-    donloadUrl:"https://1024terabox.com/s/1NaeGQZx1dw4GtUHvdPhMGQ",
+    donloadUrl:"https://1024terabox.com/s/1JPJ2AznQTwMcYvx5AfgJPg",
     category:"Books",
     subcategory:"Cat and Mouse Duet",
   },
@@ -118,6 +118,22 @@ export const items: StorageItem[] = [
     downloadUrl:"https://github.com/Deviloper1001/NyxCipher",
     category:"Personal",
     subcategory:"Program",
+  },
+  {
+    title:"48 Laws of Power",
+    downloadUrl:"https://1024terabox.com/s/1xD5eddSZVC9z7EH90sH6mg",
+    category:"Books",
+    subcategory:"",
+  },
+  {
+    title:"Classroom of Elite",
+    downloadUrl:"https://1024terabox.com/s/1_mFKtyPOtTQf7eU9HImfNQ",
+    subcategory:"",
+  },
+  {
+    title:"Alchemised",
+    downloadUrl:"https://1024terabox.com/s/1hTVRs6M8mY0o5Ms7kcUriw",
+    subcategory:"",
   },
   {
     title:"NyxCipher",
