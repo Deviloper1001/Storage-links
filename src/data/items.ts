@@ -128,11 +128,13 @@ export const items: StorageItem[] = [
   {
     title:"Classroom of Elite",
     downloadUrl:"https://1024terabox.com/s/1_mFKtyPOtTQf7eU9HImfNQ",
+    category:"books",
     subcategory:"",
   },
   {
     title:"Alchemised",
     downloadUrl:"https://1024terabox.com/s/1hTVRs6M8mY0o5Ms7kcUriw",
+    category:"Books",
     subcategory:"",
   },
   {
