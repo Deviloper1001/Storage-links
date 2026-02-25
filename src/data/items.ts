@@ -128,7 +128,7 @@ export const items: StorageItem[] = [
   {
     title:"Classroom of Elite",
     downloadUrl:"https://1024terabox.com/s/1_mFKtyPOtTQf7eU9HImfNQ",
-    category:"books",
+    category:"Books",
     subcategory:"",
   },
   {
