@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   title: "Storage links",
   description: "This is a personal website to store links of files saved on different cloud storage",
   keywords: [""],
-  authors: [{ name: "Aryan Kumar" }],
+  authors: [{ name: "Deviloper_1001" }],
   icons: {
     icon: "/Fun.svg",
   },
