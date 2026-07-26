@@ -126,10 +126,10 @@ export const items: StorageItem[] = [
     subcategory:"",
   },
   {
-    title:"Classroom of Elite",
-    downloadUrl:"https://1024terabox.com/s/1_mFKtyPOtTQf7eU9HImfNQ",
+    title:"Classroom of the Elite Year 1",
+    downloadUrl:"https://drive.google.com/drive/folders/1FSGxmoEVvptP_hhgvMoEP0_waGvcNSO1",
     category:"Books",
-    subcategory:"",
+    subcategory:"Classroom of the Elite",
   },
   {
     title:"Alchemised",
